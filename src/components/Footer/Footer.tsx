@@ -36,27 +36,27 @@ export function Footer() {
         >
           <img src={githubIcon} alt="GitHub" />
         </a>
-        <a
+        {/* <a
           href="https://api.whatsapp.com/send/?phone=%2B919630576848&text=Hello+Vinayak"
           target="_blank"
           rel="noreferrer"
         >
           <img src={whatsapp} alt="Whatsapp" />
-        </a>
+        </a> */}
         <a
-          href="https://t.me/CodeVinayak"
+          href="https://t.me/t_ageru24"
           target="_blank"
           rel="noreferrer"
         >
           <img src={telegram} alt="telegram" />
         </a>
-        <a
+        {/* <a
           href="https://www.instagram.com/vinayaksingh.in"
           target="_blank"
           rel="noreferrer"
         >
           <img src={instagramIcon} alt="Instagram" />
-        </a>
+        </a> */}
       </div>
     </Container>
   )
